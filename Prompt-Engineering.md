@@ -2,6 +2,15 @@
 
 Quick reference guide for getting better results from large language models.
 
+# Prompt Structure Guidelines
+
+| Component | Purpose | Example |
+|-----------|---------|---------|
+| Instruction | Defines the task. | "Summarize this article in 3 bullet points." |
+| Context | Provides necessary background information. | "Summarize the impact of AI on e-commerce based on this blog post." |
+| Constraints | Sets rules like length, style, or format. | "Write in a formal tone, limit to 150 words." |
+| Example (if needed) | Shows what kind of response is expected. | "Respond in the style of a Twitter thread." |
+
 ## Six Key Strategies
 
 ### 1. Write Clear Instructions
